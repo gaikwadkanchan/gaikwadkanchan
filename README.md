@@ -8,8 +8,8 @@
 ##### I have uploaded All the JavaFull-Stack content under the training provided by Edubridge India.
 
 ## Contents:
-##### Assignments
-##### HackerRank Quetion
+##### * Assignments
+##### * HackerRank Quetion
 ##### Practice Work
 ##### Mini Project
 ##### Major Project
