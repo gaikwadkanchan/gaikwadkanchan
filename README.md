@@ -1,7 +1,7 @@
-- 👋 Hi, I’m gaikwadkanchan
-- 👀 I’m interested in java,c++
-- 🌱 I’m currently learning java full stack developer
-- 💞️ I’m looking to collaborate on Programing
+- 👋 Hi, I’m gaikwadkanchan.
+- 👀 I’m interested in Software Development.
+- 🌱 I’m currently learning java full stack developer.
+- 💞️ I’m looking to collaborate on Programing.
 - 📫 How to reach me gaikwadkanchan1998@gmail.com
 
 ## About:
