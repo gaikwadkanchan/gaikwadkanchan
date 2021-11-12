@@ -4,28 +4,28 @@
 - 💞️ I’m looking to collaborate on Programing
 - 📫 How to reach me gaikwadkanchan1998@gmail.com
 
-### About:
+## About:
 ##### I have uploaded All the JavaFull-Stack content under the training provided by Edubridge India.
 
-### Contents:
+## Contents:
 ##### Assignments
 ##### HackerRank Quetion
 ##### Practice Work
 ##### Mini Project
 ##### Major Project
 
-### Tools Used:
+## Tools Used:
 ##### Eclipse IDE
 ##### Visual Studio(Front End)
 ##### Mysql Workbench(Database Connectivity)
 
-### Assignments:
+## Assignments:
 ##### To make you aware of all the fundamentals concept of java and frontend part.
 
-### Practice Work:
+## Practice Work:
 ##### The best way we learn anything is bypractice and exercise quetions. 
 
-### Projects:
+## Projects:
 ##### Some projects are based on java some are in front end and Major project in SpringBoot.
 
 ##### Hope these execises help you to improve Javafull-Stack Concept.
